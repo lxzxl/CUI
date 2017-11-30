@@ -1,4 +1,4 @@
-CUI
+CUI [![Build Status](https://travis-ci.org/lxzxl/CUI.svg?branch=master)](https://travis-ci.org/lxzxl/CUI)
 =======================
 
 A framework for responsive UI
